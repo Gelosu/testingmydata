@@ -1,0 +1,11 @@
+.MAIN {
+  text-align: center;
+}
+
+.MAIN a{
+  margin: 25px;
+}
+
+.MAIN button{
+  margin: 50px;
+}
